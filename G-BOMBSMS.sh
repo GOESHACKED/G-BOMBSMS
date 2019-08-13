@@ -27,9 +27,9 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet GOESHACK
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
+toilet -f mono12 -F border SCI
 echo -e "\e[4;34m *G-BOMB* \e[0m"
 echo -e "\e[1;34m CODING BY:\e[0m"
 echo -e "\e[1;32m       °°°GOES°HACK°°° \e[0m"
