@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m SERIES CYBER IDN !!! \e[0m"
+echo -e "\e[4;31m SERIES CYBER IDN \e[0m"
 echo -e "\e[1;34m °°°GOES°HACK°°° \e[0m"
 echo -e "\e[1;32m G-BOMBSMS \e[0m"
 echo "Press Enter To Continue"
@@ -32,7 +32,7 @@ echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border SpeedX
 echo -e "\e[4;34m *G-BOMB* \e[0m"
 echo -e "\e[1;34m CODING BY:\e[0m"
-echo -e "\e[1;32m           °°°GOES°HACK°°° \e[0m"
+echo -e "\e[1;32m       °°°GOES°HACK°°° \e[0m"
 echo -e "\e[1;32m       SERIES CYBER IDN \e[0m"
 echo -e "\e[4;32m   ©2019 SERIES™ ALL PROTECTED. \e[0m"
 echo " "
