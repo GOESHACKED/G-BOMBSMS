@@ -57,10 +57,6 @@ read a6
 ./GBombSms.sh
 exit
 
-else
-echo -e "\e[4;32m Invalid Input !!! \e[0m"
-echo "Press Enter To Go Home"
-read a3
-clear
+
 fi
 done
